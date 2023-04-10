@@ -1,4 +1,4 @@
-#Feel free to use the code for your own project :)
+<h2>Feel free to use the code for your own project :)</h2>
 
 ## Getting Started with Create React App
 
